@@ -11,7 +11,7 @@ SimpleGlance is a clean, minimal digital watch face for Garmin fenix 6, fenix 7 
 
 ## Get help
 
-Questions, problems or ideas? Email **[mahoneyclanapps+simpleglance@gmail.com](mailto:mahoneyclanapps+simpleglance@gmail.com)**.
+Questions, problems or ideas? Email **[mahoneyclanapps+simpleglance_watchface@gmail.com](mailto:mahoneyclanapps+simpleglance_watchface@gmail.com)**.
 
 To help us answer quickly, please include:
 

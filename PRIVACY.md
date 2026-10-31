@@ -45,4 +45,4 @@ None.
 
 ## Contact
 
-For questions about this privacy policy, email mahoneyclanapps+simpleglance@gmail.com.
+For questions about this privacy policy, email mahoneyclanapps+simpleglance_watchface@gmail.com.
